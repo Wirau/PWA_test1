@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//github.com/Wirau/PWA_test1/static/css/main.cb24ed6d.css",
-    "main.js": "//github.com/Wirau/PWA_test1/static/js/main.31afcae7.js",
-    "index.html": "//github.com/Wirau/PWA_test1/index.html",
-    "main.cb24ed6d.css.map": "//github.com/Wirau/PWA_test1/static/css/main.cb24ed6d.css.map",
-    "main.31afcae7.js.map": "//github.com/Wirau/PWA_test1/static/js/main.31afcae7.js.map"
+    "main.css": "//github.com/Wirau/PWA_test2/static/css/main.cb24ed6d.css",
+    "main.js": "//github.com/Wirau/PWA_test2/static/js/main.22cfe1f2.js",
+    "index.html": "//github.com/Wirau/PWA_test2/index.html",
+    "main.cb24ed6d.css.map": "//github.com/Wirau/PWA_test2/static/css/main.cb24ed6d.css.map",
+    "main.22cfe1f2.js.map": "//github.com/Wirau/PWA_test2/static/js/main.22cfe1f2.js.map"
   },
   "entrypoints": [
     "static/css/main.cb24ed6d.css",
-    "static/js/main.31afcae7.js"
+    "static/js/main.22cfe1f2.js"
   ]
 }
